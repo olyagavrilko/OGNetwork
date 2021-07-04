@@ -1,0 +1,22 @@
+{
+  "name": "OGNetwork",
+  "version": "0.1.0",
+  "summary": "A short description of OGNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Olya Gavrilko/OGNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Olya Gavrilko": "olyaganeva@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Olya Gavrilko/OGNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "OGNetwork/Classes/**/*"
+}

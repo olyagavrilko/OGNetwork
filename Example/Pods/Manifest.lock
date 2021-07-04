@@ -1,0 +1,16 @@
+PODS:
+  - OGNetwork (0.1.0)
+
+DEPENDENCIES:
+  - OGNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  OGNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OGNetwork: 8cc5426c2a141e387b39f57c189627c37c3c6650
+
+PODFILE CHECKSUM: 178eeb14ac781aa5bf36cd26e5abd973fcc85ff1
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+framework module OGNetwork {
+  umbrella header "OGNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}
