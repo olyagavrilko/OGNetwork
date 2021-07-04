@@ -1,0 +1,6 @@
+use_frameworks!
+target 'OGNetwork_Tests' do
+  pod 'OGNetwork', :path => '../'
+  
+  
+end
